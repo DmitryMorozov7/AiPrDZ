@@ -1,0 +1,4 @@
+To find the S, write 2 kateta:
+Katet a = 5
+Katet b = 7
+S = 17.5

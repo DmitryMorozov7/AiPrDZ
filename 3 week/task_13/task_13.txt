@@ -1,0 +1,5 @@
+Write the price of 1 kg of sweets and cookies^ 
+Sweets: 345
+Cookies: 3456
+For solve example a), press 1, for example b), press 2: 1
+Answer to 1 example:1485.9

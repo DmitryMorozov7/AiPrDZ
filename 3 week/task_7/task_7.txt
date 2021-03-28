@@ -1,0 +1,4 @@
+You enter one number, and the program outputs its square and cube:
+Write number: 3
+Your Square: 9
+Yuor Cube: 27

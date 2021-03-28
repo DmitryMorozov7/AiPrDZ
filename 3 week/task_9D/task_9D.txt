@@ -1,0 +1,4 @@
+For the transfer temperature from Kelvin to Celsius/Fahrenheit, write number 1, from Celsius to Kelvin/Fahrenheit, write number 2, from Fahrenheit to Celsius/Kelvin, write number 3: 2
+Write temperature in Celsius: 34
+Fahrenheit: 93.2
+Kelvin: 307
